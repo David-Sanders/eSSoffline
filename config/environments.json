@@ -1,0 +1,7 @@
+{
+  "sandbox" : {
+    "name" : "eSS offline",
+    "identifier" : "com.e-servicesuite.ola",
+    "url" : "https://ess.e-servicesuite.com"
+  }
+}

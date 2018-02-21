@@ -1,0 +1,19 @@
+{
+  "url" : "https://ess.e-servicesuite.com",
+  "identifier" : "com.e-servicesuite.ola",
+  "version" : "0.0.27",
+  "name" : "eSS offline",
+  "description" : "e-Service Suite offline hybrid app",
+  "iosEnabled" : false,
+  "androidEnabled" : true,
+  "requirePin" : true,
+  "enableOffline" : true,
+  "permissions" : {
+    "calendar" : false,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : false,
+    "microphone" : false,
+    "geoLocation" : true
+  }
+}
